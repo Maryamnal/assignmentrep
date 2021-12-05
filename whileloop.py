@@ -1,3 +1,6 @@
+
+
+
 #Question 1
 #python program to print natural numbers up to n
 number=int(input("Please Enter any Number:"))
